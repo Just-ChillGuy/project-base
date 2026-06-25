@@ -13,6 +13,8 @@
 
 <img width="799" height="291" alt="image" src="https://github.com/user-attachments/assets/f728950b-2bc8-492c-b8d6-642edc84bbd0" />
 
+Проверки для вм2:
+
 <img width="626" height="49" alt="image" src="https://github.com/user-attachments/assets/3d7383ee-02d5-490a-b272-7b78b63a76b2" />
 
 <img width="613" height="267" alt="image" src="https://github.com/user-attachments/assets/15f06f92-20ce-436b-9edb-d9d8071879c8" />
