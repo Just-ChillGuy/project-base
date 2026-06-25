@@ -19,6 +19,8 @@
 
 <img width="613" height="267" alt="image" src="https://github.com/user-attachments/assets/15f06f92-20ce-436b-9edb-d9d8071879c8" />
 
+Проверка кеширования:
+
 <img width="560" height="102" alt="image" src="https://github.com/user-attachments/assets/a078cfc3-78c2-4164-a7f2-24d730291809" />
 
 <img width="535" height="43" alt="image" src="https://github.com/user-attachments/assets/eecbceab-e4be-4c11-a602-0bfde9e9b14d" />
