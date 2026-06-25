@@ -31,6 +31,6 @@
 
 <img width="620" height="49" alt="image" src="https://github.com/user-attachments/assets/4640c7e2-f6e2-435e-b28c-8a3bf6e6d9c3" />
 
-<img width="621" height="39" alt="image" src="https://github.com/user-attachments/assets/5e8435cb-c23a-4519-af23-1b0382cf3b29" />
+Проверка прокси:
 
 <img width="645" height="92" alt="image" src="https://github.com/user-attachments/assets/5580b7bc-bf6d-445c-8da4-5d09dac8cf52" />
